@@ -1,0 +1,1 @@
+Screen Shots are captured when Exception Occurs during Execution of Program
